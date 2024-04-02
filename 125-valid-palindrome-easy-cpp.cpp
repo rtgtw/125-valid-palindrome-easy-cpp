@@ -120,5 +120,9 @@ int main() {
 
 	
 
+
+	//Time complexity = O(n)
+	//Space complexity = O(1)
+
 	return 0;
 }
